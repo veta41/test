@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "test",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/veta41/goit-js-hw-08",
+  "homepage": "https://github.com/veta41/test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/veta41/goit-js-hw-08.git"
+    "url": "git+https://github.com/veta41/test.git"
   },
   "keywords": [],
   "author": "Chudesa Svitlana <chsveta34@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/veta41/goit-js-hw-08/issues"
+    "url": "https://github.com/veta41/test/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.16.4",
