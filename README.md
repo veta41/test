@@ -1,11 +1,3 @@
-# goit-js-hw-08
+# test
 
-Проект собран с помощью parcel-project-template.
 
-Used libraries: 
-
-lodash.throttle,
-
-SimpleLightbox,
-
-Vimeo Player
