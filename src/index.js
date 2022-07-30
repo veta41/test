@@ -1,6 +1,4 @@
 
+import './js/cards_markup';
+import './js/theme';
 
-const Theme = {
-  LIGHT: 'light-theme',
-  DARK: 'dark-theme',
-};

@@ -1,4 +1,4 @@
-:root {
+/* /* :root {
   --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -33,7 +33,7 @@ body.dark-theme {
 }
 
 /* THEME SWITCH */
-.theme-switch {
+/* .theme-switch {
   display: flex;
   align-items: center;
 }
@@ -111,7 +111,7 @@ body.dark-theme {
 
 /* MENU */
 
-.menu {
+/* .menu {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -224,4 +224,4 @@ body.dark-theme {
 
 .button__icon {
   margin-right: 8px;
-}
+}  */
