@@ -1,9 +1,4 @@
 
-
-
-
-
-
 // Обьект тем
 const Theme = {
   LIGHT: 'light-theme',

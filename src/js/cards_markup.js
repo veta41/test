@@ -27,7 +27,7 @@ export function makeImageMarkup ( menu) {
 
 // Находим элемент в DOM и добавляем разметку
 const menuRef = document.querySelector('.js-menu');
-console.log(menuRef);
+
 menuRef.insertAdjacentHTML('beforeend', menuMarkup);
 }
 
